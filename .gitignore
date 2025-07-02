@@ -1,0 +1,10 @@
+# Ignore PyCharm project settings
+.idea/
+
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Mac and Windows system files
+.DS_Store
+Thumbs.db
